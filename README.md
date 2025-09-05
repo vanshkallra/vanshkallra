@@ -3,7 +3,7 @@
 <br>
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=35>&nbsp;**ABOUT ME**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 I am a **Software Developer** who loves to build projects, contribute to open source, and explore new technologies.  
@@ -27,7 +27,6 @@ I am a **Software Developer** who loves to build projects, contribute to open so
 <br>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=30>&nbsp; ***Skills***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ###### Languages & Syntax:
@@ -51,7 +50,6 @@ I am a **Software Developer** who loves to build projects, contribute to open so
 
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p align="center">
 <table align="center">
