@@ -8,8 +8,8 @@
 
 I am a **Software Developer** who loves to build projects, enjoys problem solving, collaborating with others, and working on impactful projects.  
 
-- Contributor  @**GSSoC (GirlScript Summer of Code)** and other open-source initiatives.  
-- Finalist at the **3-Day Futureforce Tech Accelerator Event by Salesforce (Hyderabad)**.  
+- Contributor  @**GSSoC (GirlScript Summer of Code)**
+- Finalist at the **3-Day Futureforce Tech Accelerator Summit by Salesforce (Hyderabad)**.  
 - Trainee at **Amazon ML Summer School**.  
 - Competitive Programmer, **Specialist @Codeforces**
 - Outside of tech: I love Table Tennis
