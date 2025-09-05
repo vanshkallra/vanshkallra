@@ -26,7 +26,7 @@ I am a **Software Developer** who loves to build projects, contribute to open so
 
 <br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=30>&nbsp; ***Skills***
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width=30>&nbsp; **SKILLS**
 
 
 ###### Languages & Syntax:
@@ -49,7 +49,7 @@ I am a **Software Developer** who loves to build projects, contribute to open so
 <br>
 
 <!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;**GITHUB STATS**
 <br>
 <p align="center">
 <table align="center">
