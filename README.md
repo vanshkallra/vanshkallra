@@ -6,12 +6,12 @@
 
 
 
-I am a **Software Developer** who loves to build projects, contribute to open source, and explore new technologies.  
-- I enjoy problem solving, collaborating with others, and working on impactful projects.  
-- Contributing through **GSSoC (GirlScript Summer of Code)** and other open-source initiatives.  
+I am a **Software Developer** who loves to build projects, enjoys problem solving, collaborating with others, and working on impactful projects.  
+
+- Contributor  @**GSSoC (GirlScript Summer of Code)** and other open-source initiatives.  
 - Finalist at the **3-Day Futureforce Tech Accelerator Event by Salesforce (Hyderabad)**.  
-- Cleared **Amazon ML Summer School**.  
-- Competitive Programmer, Specialist @Codeforces
+- Trainee at **Amazon ML Summer School**.  
+- Competitive Programmer, **Specialist @Codeforces**
 - Outside of tech: I love Table Tennis
 - Reach me at: <a href="mailto:vanshkalra.pro@gmail.com">vanshkalra.pro@gmail.com</a>  
 
